@@ -12,4 +12,4 @@
 <h3>Desktop</h3>
 <img src="https://github.com/paulocunha31/easy-shopping/blob/master/assets/desktop.PNG?raw=true" alt="image-easy-shopping-desktop" />
 <h3>Mobile</h3>
-<img src="https://github.com/paulocunha31/easy-shopping/blob/master/assets/mobile.PNG?raw=true" alt="image-easy-shoping-mobile />
+<img src="https://github.com/paulocunha31/easy-shopping/blob/master/assets/mobile.PNG?raw=true" alt="image-easy-shoping-mobile" />
